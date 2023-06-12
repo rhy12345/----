@@ -20,5 +20,6 @@
  利用lsposed框架 使用ModemPro模块提权 利用系统自带mtb（鲁班）修改 
  小白详见 哔哩哔哩视频--> https://www.bilibili.com/video/BV1W54y1w7En/
  
- ## 已测试机型 Xiaomi 10     xiaomi 10青春版（可改双串）         Redmi k30pro 
+ ## 已测试机型
+   Xiaomi 10     xiaomi 10青春版（可改双串）         Redmi k30pro 
  
